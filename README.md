@@ -46,7 +46,7 @@ When we create something that is useful to us and potentially useful to others, 
 
 
 ### Who gets the credit?
-It is important to remember that even when a repo is "owned" by the Org (it was started under the Random Studio Org or ownership was transferred), all commit activity is attributed to the individual **users**.
+It is important to remember that even when a repo is "owned" by the Org (it was started under the Random Studio Org or ownership was transferred), all commit activity is still attributed to the individual **users**.
 
 This is a good thing:
 * Users get credit for their work publicly (it shows up on their GitHub profile under their activity)
