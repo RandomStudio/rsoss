@@ -18,7 +18,7 @@ But we need to be more active than that. By improving and contributing to the to
 *(From https://www.techrepublic.com/article/what-microsoft-understands-about-open-source-that-your-company-does-not/:)*
 
 
-Last but not least, there is the potential to **harness the power of the crowd**: outsiders may end up improving (and QA'ing) things that we originally built by ourselves for ourselves.
+Last but not least, there is the potential to **harness the power of the crowd**: outsiders may end up improving (and QA'ing) things that we originally built by ourselves for ourselves. There will always be more smart people working outside our company than in it.
 
 ### Best possible outcomes
 * We get better at gathering evidence of our Open Source expertise
