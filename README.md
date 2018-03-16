@@ -14,7 +14,7 @@ When forking a project to improve/contribute, members (with repo create privileg
 
 ![forking public repos](forking-public.png "forking publicly")
 
-If this is a work-related project (it is being done on company time and/or is being used in the process of client projects, then it is a good candidate to be forked under the Org.
+If this is a work-related project (it is being done on company time and/or is being used in the process of client projects), then it is a good candidate to be forked under the Org.
 
 
 
