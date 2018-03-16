@@ -1,8 +1,5 @@
 # RSOSS
-> Randomly Open Sourcing
-*or*
-> How to do Open Source, the Random Way 😉
-
+> Open Sourcing the Random Way, without being random about it 😉
 
 Some guidelines and best practices.
 
