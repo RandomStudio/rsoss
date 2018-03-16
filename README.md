@@ -13,17 +13,21 @@ ___
 ## The Why Part
 We need to build our public profile in the Open Source software development universe, which is after all the same universe where all the good developers are - the ones who work for us or who might work for us in the future! So, yes, it's part of **employer branding**.
 
-By improving and contributing to the tools and frameworks that make our work possible, we demonstrate that we are good Open Source citizens (givers and not just takers). Call it **Open Source virtue-signalling**.
+On a surface level, our involvement in the works of others (the list of repos we contribute to) is a very good **advertisement of the stuff we're interested in and the technologies in which we have expertise**.
 
-Our involvement in the works of others (the list of repos we contribute to) is also a very good **advertisement of the stuff we're interested in and the technologies in which we have expertise**.
+But we need to be more active than that. By improving and contributing to the tools and frameworks that make our work possible, we demonstrate that we are good Open Source citizens (givers and not just takers). Call it **Open Source virtue-signalling**. But really it's about **credibility**:
+> Being visible, being a thought leader, not only helps drive the field in areas of interest to us, it also gives us credibility when we want to bring in the very best people in the field. 
+
+*(From https://www.techrepublic.com/article/what-microsoft-understands-about-open-source-that-your-company-does-not/:)*
+
 
 Last but not least, there is the potential to **harness the power of the crowd**: outsiders may end up improving (and QA'ing) things that we originally built by ourselves for ourselves.
 
 ### Best possible outcomes
-* We attract good talent to work for us
-* Talented people want to partner with us
-* We gain credibility so that we can give talks or host events
-* We might even get our name behind a wildly successful Open Source project or two: viral marketing
+* We get better at gathering evidence of our Open Source expertise
+* We gain credibility so that we can give talks, write articles, host events
+* We attract good talent to work for us, or partner with us
+* We might even get our name behind a wildly successful Open Source project or two (viral marketing)
 
 
 ___
