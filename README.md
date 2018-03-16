@@ -9,6 +9,14 @@ Some guidelines and best practices.
 **IMPORTANT DISCLAIMER: THIS DOCUMENT IS A DRAFT (WORK IN PROGRESS) AND DOES NOT CURRENTLY SIGNIFY OFFICIAL COMPANY POLICY. IT IS AN EXPLORATION OF POLICIES AND BEST PRACTICES UNDER DEVELOPMENT.**
 
 
+## The Why Part
+We need to build our public profile in the Open Source software development universe, which is after all the same universe where all the good developers are - the ones who work for us or who might work for us in the future! So, yes, it's part of **employer branding**.
+
+By improving and contributing to the tools and frameworks that make our work possible, we demonstrate that we are good Open Source citizens (givers and not just takers). Call it **Open Source virtue-signalling**.
+
+Our involvement in the works of others (the list of repos we contribute to) is also a very good **advertisement of the stuff we're interested in and the technologies in which we have expertise**.
+
+
 ## Forking public repos (not our own)
 When forking a project to improve/contribute, members (with repo create privileges) should see the option to fork either to their private account or to the Organization:
 
