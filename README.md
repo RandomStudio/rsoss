@@ -48,3 +48,4 @@ This is a good thing:
 ## Useful resources and references
 * GitHub's own [Open Source Guide](https://opensource.guide/): includes tips on growing community and some info on the legal side of Open Source
 * [Why the Best Companies and Developers Give Away Almost Everything They Do](https://blog.ycombinator.com/why-the-best-give-away/) goes into some of the non-altruistic reasons why Open Source is good for companies
+* [What Microsoft understands about open source that your company does not](https://www.techrepublic.com/article/what-microsoft-understands-about-open-source-that-your-company-does-not/): "Microsoft understands that its future depends upon contributing to open source, not just using it. Here's why your company needs the same strategy. "
