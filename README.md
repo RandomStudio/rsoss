@@ -6,6 +6,8 @@
 
 Some guidelines and best practices.
 
+**IMPORTANT DISCLAIMER: THIS DOCUMENT IS A DRAFT (WORK IN PROGRESS) AND DOES NOT CURRENTLY SIGNIFY OFFICIAL COMPANY POLICY. IT IS AN EXPLORATION OF POLICIES AND BEST PRACTICES UNDER DEVELOPMENT.**
+
 
 ## Forking public repos (not our own)
 When forking a project to improve/contribute, members (with repo create privileges) should see the option to fork either to their private account or to the Organization:
@@ -31,3 +33,7 @@ This is a good thing:
 * However, the repos owned by the Org do not show up under each user's list of repositories, on their GitHub profiles
 * We can track who is responsible for what
 * We can also allow outsiders to contribute (in a controlled way) to anything we're working on
+
+## Useful resources
+* GitHub's own [Open Source Guide](https://opensource.guide/): includes tips on growing community and some info on the legal side of Open Source
+
